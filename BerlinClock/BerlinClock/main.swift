@@ -8,4 +8,4 @@
 import Foundation
 
 print("Hello, World!")
-
+print("Ой, блин, тут еще нужно доработать")
